@@ -20,9 +20,7 @@ A GUI-based **Student Management System** built using **Python**, **Tkinter**, a
 - 🎨 Customizable colors and fonts via external config
 
 ---
-
 ## 🛠️ Technologies Used
-
 - **Python 3.x**
 - **Tkinter** – GUI Framework
 - **MySQL** – Relational Database
